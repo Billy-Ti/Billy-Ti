@@ -8,6 +8,12 @@
 - You can reach me by [LinkedIn](https://www.linkedin.com/in/billy-ti/) or show81728@gmail.com 
 
 ### ✨Latest posts
+### ✨Latest posts
+- [IDOLTHREAT International Top 20 of 2020](https://medium.com/idolthreat/idolthreat-international-top-20-of-2020-1515a0fd88d3?source=rss-e188c6597a0------2)
+- [IDOLTHREAT Australian Top 20 of 2020](https://medium.com/idolthreat/idolthreat-australian-top-20-of-2020-be8d675ba9db?source=rss-e188c6597a0------2)
+- [IDOLTHREAT Australian Top 20 of 2019](https://medium.com/idolthreat/idolthreat-australian-top-20-of-2019-4c5f46e88712?source=rss-e188c6597a0------2)
+- [IDOLTHREAT International Top 20 of 2019](https://medium.com/idolthreat/idolthreat-international-top-20-of-2019-d22a562580ca?source=rss-e188c6597a0------2)
+- [Intel: 4 Feb 2019](https://medium.com/idolthreat/intel-4-feb-2019-506fca73de2e?source=rss-e188c6597a0------2)
 
 ### 🖥️Things I have learned
 
