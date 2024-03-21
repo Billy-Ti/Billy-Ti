@@ -25,5 +25,5 @@ jobs:
           git config --global user.email "78161308+Billy-Ti@users.noreply.github.com"
           git config --global user.name "Billy Ti"
           git add README.md
-          git commit -m "Update : README posts" || exit 0  # 如果沒有變更則不執行提交
+          git commit -m "Update README posts" || exit 0  
           git push --set-upstream https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }} main
