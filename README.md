@@ -7,6 +7,11 @@
 - Learning to optimize code, focusing on writing style and maintainability
 - You can reach me by [LinkedIn](https://www.linkedin.com/in/billy-ti/) or show81728@gmail.com 
 
+### ✨Latest posts
+
+
+###
+
 ### 🖥️Things I have learned
 
 | Category                | Technology and Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
