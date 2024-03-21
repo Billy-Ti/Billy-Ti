@@ -9,9 +9,6 @@
 
 ### ✨Latest posts
 
-
-###
-
 ### 🖥️Things I have learned
 
 | Category                | Technology and Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
