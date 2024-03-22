@@ -2,7 +2,7 @@ name: Update README with Medium Articles
 
 on:
   schedule:
-    - cron: '0 * * * *' # 每小時執行一次
+    - cron: '0 0 * * *' # 00:00 執行一次 分 時 日 月 週
   workflow_dispatch: # 允許手動觸發
 
 jobs:
