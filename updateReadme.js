@@ -10,7 +10,9 @@ const README_PATH = './README.md';
   const feed = await parser.parseURL(RSS_FEED_URL);
   let newContent = '';
   feed.items.slice(0, 5).forEach((item) => {
-    newContent += `- [${item.title}](${item.link})\n`;
+    if (!item.title.toLocaleLowerCase().includes('面試')) {
+      newContent += `- [${item.title}](${item.link})\n`;
+    }
   });
 
   const readmeContent = readFileSync(README_PATH, 'utf8');
