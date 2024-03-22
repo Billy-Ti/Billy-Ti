@@ -3,7 +3,7 @@ import RSSParser from 'rss-parser';
 
 const parser = new RSSParser();
 
-const RSS_FEED_URL = 'https://medium.com/feed/@Ti';
+const RSS_FEED_URL = 'https://medium.com/feed/@show81728';
 const README_PATH = './README.md';
 
 (async () => {
