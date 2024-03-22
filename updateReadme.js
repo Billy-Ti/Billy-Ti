@@ -8,15 +8,15 @@ const README_PATH = './README.md';
 
 (async () => {
   const feed = await parser.parseURL(RSS_FEED_URL);
-  let newContent = '### ✨Latest posts\n';
+  let newContent = '';
   feed.items.slice(0, 5).forEach((item) => {
     newContent += `- [${item.title}](${item.link})\n`;
   });
 
   const readmeContent = readFileSync(README_PATH, 'utf8');
   const updatedContent = readmeContent.replace(
-    /(### ✨Latest posts\n)([\s\S]*?)(\n###)/,
-    `$1${newContent}$3`
+    /(\n### ✨Latest posts\n)([\s\S]*?)(?=\n###)/,
+    `$1${newContent}`
   );
 
   writeFileSync(README_PATH, updatedContent);
