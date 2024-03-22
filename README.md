@@ -8,6 +8,8 @@
 - You can reach me by [LinkedIn](https://www.linkedin.com/in/billy-ti/) or show81728@gmail.com 
 
 ### ✨Latest posts
+- [[React 開發] — 為什麼導入那麼慢？你不可能不知道...React Profiler 可以幫助一一揪出來](https://medium.com/@show81728/react-%E9%96%8B%E7%99%BC-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%B0%8E%E5%85%A5%E9%82%A3%E9%BA%BC%E6%85%A2-%E4%BD%A0%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93-react-profiler-%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E4%B8%80%E4%B8%80%E6%8F%AA%E5%87%BA%E4%BE%86-37c5858dbf00?source=rss-5e0728a56284------2)
+- [面試 Trip — 91APP](https://medium.com/@show81728/%E9%9D%A2%E8%A9%A6-trip-91app-ad9e1dd9ed85?source=rss-5e0728a56284------2)
 
 ### 🖥️Things I have learned
 
