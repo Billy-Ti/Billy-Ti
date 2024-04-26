@@ -8,6 +8,7 @@
 - You can reach me by [LinkedIn](https://www.linkedin.com/in/billy-ti/) or show81728@gmail.com 
 
 ### ✨Latest posts
+- [[JavaScript 開發] — structuredClone 深度複製淺談，比較幾種複製方法及限制](https://medium.com/@show81728/javascript-%E9%96%8B%E7%99%BC-structuredclone-%E6%B7%B1%E5%BA%A6%E8%A4%87%E8%A3%BD%E6%B7%BA%E8%AB%87-%E6%AF%94%E8%BC%83%E5%B9%BE%E7%A8%AE%E8%A4%87%E8%A3%BD%E6%96%B9%E6%B3%95%E5%8F%8A%E9%99%90%E5%88%B6-c1ef42e81633?source=rss-5e0728a56284------2)
 - [[React 開發] — 為什麼導入那麼慢？你不可能不知道...React Profiler 可以幫助一一揪出來](https://medium.com/@show81728/react-%E9%96%8B%E7%99%BC-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%B0%8E%E5%85%A5%E9%82%A3%E9%BA%BC%E6%85%A2-%E4%BD%A0%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93-react-profiler-%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E4%B8%80%E4%B8%80%E6%8F%AA%E5%87%BA%E4%BE%86-37c5858dbf00?source=rss-5e0728a56284------2)
 
 ### 🖥️Things I have learned
